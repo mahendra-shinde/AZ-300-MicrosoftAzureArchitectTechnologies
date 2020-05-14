@@ -54,9 +54,9 @@ The main tasks for this exercise are as follows:
    New-AzResourceGroup -Name az3000601-LabRG -Location <Azure region>
    ```
 
-1. From the Cloud Shell pane, upload the Azure Resource Manager template **\\allfiles\\AZ-300T02\\Module_01\\azuredeploy06.json** into the home directory.
+1. From the Cloud Shell pane, upload the Azure Resource Manager template [click here](https://raw.githubusercontent.com/mahendra-shinde/AZ-300-MicrosoftAzureArchitectTechnologies/master/allfiles/AZ-300T02/Module_01/azuredeploy06.json) into the home directory.
 
-1. From the Cloud Shell pane, upload the parameter file **\\allfiles\\AZ-300T02\\Module_01\\azuredeploy06.parameters.json** into the home directory.
+1. From the Cloud Shell pane, upload the parameter file [click here](https://raw.githubusercontent.com/mahendra-shinde/AZ-300-MicrosoftAzureArchitectTechnologies/master/allfiles/AZ-300T02/Module_01/azuredeploy06.parameters.json) into the home directory.
 
 1. From the Cloud Shell pane, switch to your home directory :
    ```pwsh
